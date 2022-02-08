@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 ef134ef3fe2035989ef72eae6e946a50d5b55142 MarcosRoch4 <in.cognitu@hotmail.com> 1643031494 -0300	commit (initial): initial commit
+ef134ef3fe2035989ef72eae6e946a50d5b55142 4640e8303931ed317995938d89262025d3fde29f MarcosRoch4 <in.cognitu@hotmail.com> 1643035126 -0300	commit: Angular material instalado no projeto
+4640e8303931ed317995938d89262025d3fde29f 8274bc0a774cd0d3230d493f90876f1312b62f74 MarcosRoch4 <in.cognitu@hotmail.com> 1643128321 -0300	commit: Home implementado com Rota.
+8274bc0a774cd0d3230d493f90876f1312b62f74 3c8a91689db127be67b9d9b77c2178e61981fcc2 MarcosRoch4 <in.cognitu@hotmail.com> 1643151066 -0300	commit: Ajuste nas pastas do projeto
+3c8a91689db127be67b9d9b77c2178e61981fcc2 02b3ca979eb85d249308005c921d7fc10864717a MarcosRoch4 <in.cognitu@hotmail.com> 1643324410 -0300	commit: implementação do categoria-read
+02b3ca979eb85d249308005c921d7fc10864717a 8c23207ea764a213e6855fb3c6d56b359cc77b4c MarcosRoch4 <in.cognitu@hotmail.com> 1643374409 -0300	commit: ajustes no componente-read
+8c23207ea764a213e6855fb3c6d56b359cc77b4c a9932d990eaac072ebea33511a076a375917bb60 MarcosRoch4 <in.cognitu@hotmail.com> 1643811809 -0300	commit: Método CREATE implementado para categoria
+a9932d990eaac072ebea33511a076a375917bb60 62abbcd6a2b28c2e44e5475e58c2a113921a5312 MarcosRoch4 <in.cognitu@hotmail.com> 1643812009 -0300	commit: Finalizando o método CREATE
+62abbcd6a2b28c2e44e5475e58c2a113921a5312 dab7601f072fbe4a13bdc93622080c74646e0e1f MarcosRoch4 <in.cognitu@hotmail.com> 1643817225 -0300	commit: Categoria DELETE Implementada
+dab7601f072fbe4a13bdc93622080c74646e0e1f da45468d39d0834e71f4881eb92e66e6338e3adf MarcosRoch4 <in.cognitu@hotmail.com> 1643988422 -0300	commit: UPDATE para categoria foi implementado
+da45468d39d0834e71f4881eb92e66e6338e3adf a1739d217b273d5df497715473e9651304231efa MarcosRoch4 <in.cognitu@hotmail.com> 1643994465 -0300	commit: leitura de todos os livros por categoria implementados
+a1739d217b273d5df497715473e9651304231efa 78ea08114af22b77e3553f2cf13b73c5a5d28225 MarcosRoch4 <in.cognitu@hotmail.com> 1644335117 -0300	commit: UPDATE para livro implementado
+78ea08114af22b77e3553f2cf13b73c5a5d28225 de4e5c61bd59b4b0a9b98ce2c6774fee9017cf82 MarcosRoch4 <in.cognitu@hotmail.com> 1644336343 -0300	commit: DELETE para livro implementado
+de4e5c61bd59b4b0a9b98ce2c6774fee9017cf82 3c7866b1efb3fbd4712d57391e6eab3972ff303e MarcosRoch4 <in.cognitu@hotmail.com> 1644357561 -0300	commit: READ para livro implementado
